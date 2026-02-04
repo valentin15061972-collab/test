@@ -1,7 +1,3 @@
-# Hello, world!
+# EnglishTutorBot - Telegram-бот для изучения английского
 
-I study in Netology
-
-19.10.2025
-
-I love Netology
+## Курсовая работа «ТГ-чат-бот «Обучалка английскому языку»» по курсу «Базы данных»
